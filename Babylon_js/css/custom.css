@@ -1,0 +1,43 @@
+@charset "UTF-8";		      
+
+img {
+	border-radius: 5px;
+	margin: 10px;
+    }
+        
+.table_title_01 {
+	font-size: 24px;
+	color: #F03;
+	font-weight: bold;
+	}
+
+.table_title_02 {
+	font-size: 24px;
+	color: #090;
+	font-weight: bold;
+	}
+
+.table_title_03 {
+	font-size: 24px;
+	color: #C90;
+	font-weight: bold;
+	}
+
+.table_content_01 {
+	font-size: 18px;
+	font-weight: bold;
+	background-color: #9CF;
+	}
+
+.table_content_02 {
+	font-size: 18px;
+	font-weight: bold;
+	background-color: #FCC;
+	}
+
+.table_content_03 {
+		font-size: 18px;
+		font-weight: bold;
+		background-color: #FF9;
+	}
+		 		 		 		 		 
